@@ -1,5 +1,5 @@
 # vehicle-rental-app
-Complete solution: React + Material UI frontend, Node + Express + Prisma backend, SQLite database.
+Complete solution: React + Material UI frontend, Node + Express + Prisma backend, SQL database.
 Multi-step vehicle booking form with validation and overlap-safe bookings.
 
 ## Project Overview
@@ -8,7 +8,7 @@ This project implements a vehicle booking wizard:
 
 -> Frontend: React + Material UI (MUI), single-question-per-step wizard.
 
--> Backend: Node.js + Express + Prisma ORM, SQLite database.
+-> Backend: Node.js + Express + Prisma ORM, SQL database.
 
 -> Features:
 
